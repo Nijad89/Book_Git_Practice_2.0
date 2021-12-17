@@ -1,0 +1,5 @@
+this is page2
+
+
+
+git enabled both not added to stage
